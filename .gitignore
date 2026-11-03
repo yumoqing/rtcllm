@@ -1,0 +1,16 @@
+# build/test artifacts
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+build/
+*.egg-info/
+*.dist-info/
+*.whl
+logs/
+*.log
+.idea/
+~$*
+models/mysql.ddl.sql
+*.pid
+init/
